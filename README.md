@@ -1,7 +1,5 @@
 # Heap SDK integration
-This repository highlights an issue when integrating the Heap Android SDK
-
-The basic installation instructions for the [Heap SDK](https://developers.heap.io/docs/android) do not describe how to set up the Plugin with the Plugin DSL.
+The basic installation instructions for the [Heap SDK](https://developers.heap.io/docs/android) do not describe how to set up the Plugin with the Plugin DSL. Here we go:
 
 ## The problem
 
