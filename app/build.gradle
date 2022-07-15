@@ -1,9 +1,8 @@
 plugins {
     id 'com.android.application' version '7.2.1'
     id 'org.jetbrains.kotlin.android' version '1.7.0'
+    id 'com.heapanalytics.android' version '1.10.4'
 }
-
-apply plugin: 'com.heapanalytics.android'
 
 android {
     compileSdk 32
